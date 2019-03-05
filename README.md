@@ -1,4 +1,4 @@
-# Workshops
+# Talks
 Collection of talks organized for the .NET Dominican Community.
 
 **Includes**
@@ -6,8 +6,8 @@ Collection of talks organized for the .NET Dominican Community.
 - Sample Code
 - Photos of Event
 
-## Workshops List
-- 
+## Talks List
+- [Streaming on Xamarin Forms with Wowza Client Plugin - Xamarin Online LATAM Fest](StreamingOnXamarinForms_WowzaClientPlugin/) - Luis Pujols
 
 
 ## Contributors

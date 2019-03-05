@@ -14,5 +14,12 @@ En esta ocasion **.NET Dominicana se une a la iniciativa** con nuestro charlista
 - Fody Property Changed
 - Wowza Client Plugin [Pre-release] by CrossGeeks
 
+## Demo App
+- [Wowza Client Plugin Sample App](https://github.com/CrossGeeks/WowzaClientPlugin/tree/master/WowzaClientSample)
+
+## References
+- [Wowza Client Plugin Project Repo](https://github.com/CrossGeeks/WowzaClientPlugin) - CrossGeeks
+- [Wowza Client Plugin(Pre-release) Post](https://www.pujolsluis.com/wowza-client-plugin-for-xamarin/) - Pujolsluis Blog
+
 # Contributor
 - [Luis Pujols](https://github.com/pujolsluis)
