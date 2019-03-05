@@ -11,4 +11,4 @@ Collection of talks organized for the .NET Dominican Community.
 
 
 ## Contributors
-[Luis Pujols](https://github.com/pujolsluis)
+- [Luis Pujols](https://github.com/pujolsluis)
