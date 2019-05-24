@@ -27,6 +27,6 @@ Last Monday on May 13, 2019 DotNetDo organized the Visual Studio 2019 Launch Eve
 
 # Contributors
 - [Luis Pujols](https://github.com/pujolsluis)
-- [Charlin Agramonte](https://github.com/pujolsluis)
-- [Angel Garcia](https://github.com/pujolsluis)
-- [Rendy Del Rosario](https://github.com/pujolsluis)
+- [Charlin Agramonte](https://github.com/Char0394)
+- [Angel Garcia](https://github.com/AngelGarcia13)
+- [Rendy Del Rosario](https://github.com/rdelrosario)
